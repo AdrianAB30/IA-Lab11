@@ -1,0 +1,14 @@
+C:\Users\Tecsup\Desktop\Logica Difusa RDR2\Logica Difusa RDR2\bin\Debug\net8.0\Logica Difusa RDR2.exe
+C:\Users\Tecsup\Desktop\Logica Difusa RDR2\Logica Difusa RDR2\bin\Debug\net8.0\Logica Difusa RDR2.deps.json
+C:\Users\Tecsup\Desktop\Logica Difusa RDR2\Logica Difusa RDR2\bin\Debug\net8.0\Logica Difusa RDR2.runtimeconfig.json
+C:\Users\Tecsup\Desktop\Logica Difusa RDR2\Logica Difusa RDR2\bin\Debug\net8.0\Logica Difusa RDR2.dll
+C:\Users\Tecsup\Desktop\Logica Difusa RDR2\Logica Difusa RDR2\bin\Debug\net8.0\Logica Difusa RDR2.pdb
+C:\Users\Tecsup\Desktop\Logica Difusa RDR2\Logica Difusa RDR2\obj\Debug\net8.0\Logica Difusa RDR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tecsup\Desktop\Logica Difusa RDR2\Logica Difusa RDR2\obj\Debug\net8.0\Logica Difusa RDR2.AssemblyInfoInputs.cache
+C:\Users\Tecsup\Desktop\Logica Difusa RDR2\Logica Difusa RDR2\obj\Debug\net8.0\Logica Difusa RDR2.AssemblyInfo.cs
+C:\Users\Tecsup\Desktop\Logica Difusa RDR2\Logica Difusa RDR2\obj\Debug\net8.0\Logica Difusa RDR2.csproj.CoreCompileInputs.cache
+C:\Users\Tecsup\Desktop\Logica Difusa RDR2\Logica Difusa RDR2\obj\Debug\net8.0\Logica Difusa RDR2.dll
+C:\Users\Tecsup\Desktop\Logica Difusa RDR2\Logica Difusa RDR2\obj\Debug\net8.0\refint\Logica Difusa RDR2.dll
+C:\Users\Tecsup\Desktop\Logica Difusa RDR2\Logica Difusa RDR2\obj\Debug\net8.0\Logica Difusa RDR2.pdb
+C:\Users\Tecsup\Desktop\Logica Difusa RDR2\Logica Difusa RDR2\obj\Debug\net8.0\Logica Difusa RDR2.genruntimeconfig.cache
+C:\Users\Tecsup\Desktop\Logica Difusa RDR2\Logica Difusa RDR2\obj\Debug\net8.0\ref\Logica Difusa RDR2.dll
